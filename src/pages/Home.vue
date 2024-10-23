@@ -21,9 +21,9 @@
 					<h1 class="fw-bold">OUR STORY</h1>
 				</div>
 				<div class="col-md-7 my-auto p-5 bg-light rounded shadow-sm">
-					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sed odio elit, sit amet eleifend velit. Sed ac metus quis risus hendrerit.</p>
-					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sed odio elit, sit amet eleifend velit. Sed ac metus quis risus hendrerit.</p>
-					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sed odio elit, sit amet eleifend velit. Sed ac metus quis risus hendrerit.</p>
+					<p>This brand start from 1970.</p>
+					<p>our believe is best product bring bet profit.</p>
+					<p>standing on the advance of product edge.</p>
 				</div>
 				<div class="col-md-5">
 					<img src="/images/our-story.png" alt="Our Story Image" class="rounded img-fluid">

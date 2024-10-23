@@ -3,7 +3,7 @@
     <div class="my-5">
       <div class="col-md-12 mb-3">
         <h1>NEVER MISS AN UPDATE</h1>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sed odio elit, sit amet eleifend velit. Sed ac metus quis risus hendrerit.</p>
+        <p>please leave your contract info below.</p>
       </div>
       <div class="col-md-6 offset-md-3">
         <form action="">

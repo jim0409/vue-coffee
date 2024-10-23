@@ -1,34 +1,24 @@
-# vue-project
+# refer note:
+- https://github.com/CuongVnZ/coffeeshop-vuejs
 
-This template should help get you started developing with Vue 3 in Vite.
 
-## Recommended IDE Setup
+# intro
+0. src/pages/Home.vue; 首頁 .. 加入許多頁面的
+1. src/components/Footer.vue; 改首頁下擺
+2. src/components/Categories.vue; 渲染類型
+3. src/components/Newsletter.vue; 
+4. src/pages/Cart.vue; 呈現購物車點選的項目, 準備結帳
+5. src/slide.vue; 頁面首選的滑窗
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
 
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
+## quick start
 ```sh
+# Project Setup
 npm install
-```
 
-### Compile and Hot-Reload for Development
-
-```sh
+# Compile and Hot-Reload for Development
 npm run dev
-```
 
-### Compile and Minify for Production
-
-```sh
+# Compile and Minify for Production
 npm run build
 ```
-
-<!-- images -->
-![image](media/1.png)
-![image](media/2.png)
-![image](media/3.png)
